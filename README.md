@@ -18,6 +18,9 @@ npm install
 npm start
 ```
 
+Dia 1 = Concluído
+Dia 2 = Concluído
+
 ## History
 Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases) pra acompanhar as alterações feitas no projeto.
 
