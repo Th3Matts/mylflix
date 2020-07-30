@@ -1,0 +1,159 @@
+{
+  "categorias": [
+    {
+      "titulo": "Nerdologia",
+      "link": "https://www.youtube.com/watch?v=Xeqkq-J_Ouc",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Canal Nerdologia",
+        "url": "https://www.youtube.com/c/nerdologia"
+      },
+      "videos": [
+        {
+          "titulo": "O palácio da memória e memória fotográfica | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=zrl0ov5zXcM"
+        },
+        {
+          "titulo": "Por que você gosta do que você gosta | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=MmL_CUGtGTg"
+        },
+            {
+              "titulo": "Criptografia | Nerdologia Tech",
+              "url": "https://www.youtube.com/watch?v=_Eeg1LxVWa8"
+            },
+        {
+          "titulo": "Vírus de computador são vivos? | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=iwHBzF6LISg"
+        },
+        {
+          "titulo": "O Bug mais famoso dos jogos | Nerdologia Tech",
+          "url": "https://www.youtube.com/watch?v=gN-xwvLxC44"
+        },
+        {
+          "titulo": "Imortalidade | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=hNt-SmmjdRg"
+        },
+        {
+          "titulo": "Como podemos morar em Marte | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=QBGaQjULnIo"
+        },
+        {
+          "titulo": "A Programação e a Vida | Nerdologia Tech",
+          "url": "https://www.youtube.com/watch?v=ze0qDsJGOBM"
+        }        
+      ]
+    },
+    {
+      "titulo": "Ragnarok",
+      "cor": "#00275E",
+      "link_extra": {
+        "text": "Canal Não vai na Mel",
+        "url": "https://www.youtube.com/c/naovainamel"
+      },
+      "videos": [
+        {
+          "titulo": "É uma Péssima Ideia, Vamo Nessa",
+          "url": "https://www.youtube.com/watch?v=Xeqkq-J_Ouc"
+        },
+        {
+          "titulo": "A Princesa está em outro Cemitério",
+          "url": "https://www.youtube.com/watch?v=xBxKEx6XFMc"
+        },
+        {
+          "titulo": "A Mão da Guilhotina chega a Tremer",
+          "url": "https://www.youtube.com/watch?v=xPQFjSBtfsM"
+        },
+        {
+          "titulo": "Nunca apanhei tanto na Vida",
+          "url": "https://www.youtube.com/watch?v=WsjPe9kQ9eg"
+        }, 
+        {
+          "titulo": "Como eu venci o Diabo com um Suco de Uva",
+          "url": "https://www.youtube.com/watch?v=8raBduiYvdo"
+        }
+      ]
+    },
+    {
+      "titulo": "CBLOL",
+      "cor": "#FEB729",
+      "link_extra": {
+        "text": "LoL eSports BR",
+        "url": "https://www.youtube.com/user/lolesportsbr"
+      },
+      "videos": [
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos - Md1 | Semana 8 - Rodada 16",
+          "url": "https://www.youtube.com/watch?v=qbMTpwgpZ0E"
+        },
+        {
+          "titulo": "Depois do Nexus: 27/07/2020",
+          "url": "https://www.youtube.com/watch?v=B4D6Kkrk6CQ"
+        },
+        {
+          "titulo": "CBLoL 2020: 2ª Etapa - Fase de Pontos - Md1 | Semana 7 - Rodada 14",
+          "url": "https://www.youtube.com/watch?v=BUscwechVXU"
+        },
+        {
+          "titulo": "Depois do Nexus: 20/07/2020",
+          "url": "https://www.youtube.com/watch?v=ggDEWN1-Z_A"
+        }
+      ]
+    },
+    {
+      "titulo": "Podcast",
+      "cor": "#A8B1B8",
+      "videos": [
+        {
+          "titulo": "CAUE MOURA - Flow Podcast #84",
+          "url": "https://www.youtube.com/watch?v=gegfMaoSZbU"
+        },
+        {
+          "titulo": "CAUÊ MOURA + JOVEM NERD E AZAGHAL (@Jovem Nerd) | POUCAS #77 | S02 EP43",
+          "url": "https://www.youtube.com/watch?v=mMNycmSsPIg"
+        },
+        {
+          "titulo": "GAULES - Flow Podcast #117",
+          "url": "https://www.youtube.com/watch?v=vStgnVQtyeA"
+        },
+        {
+          "titulo": "CAUÊ MOURA + DRAUZIO VARELLA | POUCAS #24",
+          "url": "https://www.youtube.com/watch?v=OTm3Ww6bBRY"
+        },
+        {
+          "titulo": "DJOKO - Flow Podcast #146",
+          "url": "https://www.youtube.com/watch?v=A9S81hn4jpo"
+        },
+        {
+          "titulo": "CAUÊ MOURA + PIRULLA | POUCAS #34 - AGORA NO MOV SHOW | S02 EP01",
+          "url": "https://www.youtube.com/watch?v=CN6lBq87eVo"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros",
+      "cor": "#FFCC66",
+      "videos": [
+        {
+          "titulo": "Muri Deri",
+          "url": "https://www.youtube.com/watch?v=N5U3lsp3F60"
+        },
+        {
+          "titulo": "Entendendo o trailer de Tenet!",
+          "url": "https://www.youtube.com/watch?v=LzJMauLQA5k"
+        },
+        {
+          "titulo": "EU NÃO FECHO COM ROBÔ - GIRO DE QUINTA",
+          "url": "https://www.youtube.com/watch?v=d1uuGwXef7A"
+        },
+        {
+          "titulo": "Ultra Easy Healthy Meals | But Cheaper",
+          "url": "https://www.youtube.com/watch?v=Acs7ZnIdo4o"
+        },
+        {
+          "titulo": "PERNALONGA DE BATOM, AOS 80 ANOS",
+          "url": "https://www.youtube.com/watch?v=xn06HETfzTg"
+        }
+      ]
+    }
+  ]
+}
